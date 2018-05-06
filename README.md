@@ -11,18 +11,18 @@
 
 
 # Application Extension
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |Shortbread|https://github.com/MatthiasRobbers/shortbread|
 
 # Data Handling
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |Compressor|https://github.com/zetbaitsu/Compressor|
 |Parceler|https://github.com/johncarl81/parceler|
 
 # Design
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |AwesomeBar|https://github.com/florent37/AwesomeBar|
 |CoordinatorTabLayout|https://github.com/hugeterry/CoordinatorTabLayout|
@@ -31,12 +31,12 @@
 |StyleableToast|https://github.com/Muddz/StyleableToast|
 
 # Input
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |material-code-input|https://github.com/raycoarana/material-code-input|
 
 # Media Capture
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |CameraView|https://github.com/natario1/CameraView|
 |FaceDetector|https://github.com/Fotoapparat/FaceDetector|
@@ -44,7 +44,7 @@
 |Videoapparat|https://github.com/Fotoapparat/Videoapparat|
 
 # Media Playing
-|Title|Link|
+|Name|Repo|
 |:-:|:-:|
 |ExoPlayer|https://github.com/google/ExoPlayer|
 |PreviewSeekBar|https://github.com/rubensousa/PreviewSeekBar|
