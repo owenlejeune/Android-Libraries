@@ -1,9 +1,13 @@
+<!-- TOC START min:1 max:3 link:true update:true -->
 - [Application Extension](#application-extension)
 - [Data Handling](#data-handling)
 - [Design](#design)
+- [Image Loading](#image-loading)
 - [Input](#input)
 - [Media Capture](#media-capture)
 - [Media Playing](#media-playing)
+
+<!-- TOC END -->
 
 # Application Extension
 |Name|Repo|
@@ -24,6 +28,11 @@
 |FlowLayout|https://github.com/nex3z/FlowLayout|
 |Skeleton|https://github.com/ethanhua/Skeleton|
 |StyleableToast|https://github.com/Muddz/StyleableToast|
+
+# Image Loading
+| Name | Repo |
+|:----:|:----:|
+|Picasso|https://github.com/square/picasso|
 
 # Input
 |Name|Repo|
