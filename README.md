@@ -1,4 +1,5 @@
-<!-- TOC START min:1 max:3 link:true update:true -->
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
 - [Application Extension](#application-extension)
 - [Data Handling](#data-handling)
 - [Design](#design)
@@ -6,9 +7,9 @@
 - [Input](#input)
 - [Media Capture](#media-capture)
 - [Media Playing](#media-playing)
+- [UI Enhancement](#ui-enhancement)
 
-<!-- TOC END -->
-
+<!-- /TOC -->
 # Application Extension
 |Name|Repo|
 |:-:|:-:|
@@ -52,3 +53,8 @@
 |:-:|:-:|
 |ExoPlayer|https://github.com/google/ExoPlayer|
 |PreviewSeekBar|https://github.com/rubensousa/PreviewSeekBar|
+
+# UI Enhancement
+|Name|Repo|
+|:-:|:-:|
+|Toasty|https://github.com/GrenderG/Toasty|
