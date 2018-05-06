@@ -25,6 +25,11 @@
 |Skeleton|https://github.com/ethanhua/Skeleton|
 |StyleableToast|https://github.com/Muddz/StyleableToast|
 
+# Image Loading
+| Name | Repo |
+|:----:|:----:|
+|Picasso|https://github.com/square/picasso|
+
 # Input
 |Name|Repo|
 |:-:|:-:|
