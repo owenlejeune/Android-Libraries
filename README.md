@@ -1,14 +1,9 @@
-<!-- TOC START min:1 max:3 link:true update:true -->
 - [Application Extension](#application-extension)
 - [Data Handling](#data-handling)
 - [Design](#design)
 - [Input](#input)
 - [Media Capture](#media-capture)
 - [Media Playing](#media-playing)
-
-<!-- TOC END -->
-
-
 
 # Application Extension
 |Name|Repo|
