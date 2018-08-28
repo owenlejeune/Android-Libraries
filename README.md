@@ -23,11 +23,17 @@
 # Design
 |Name|Repo|
 |:-:|:-:|
+|AnimatedTabLayout|https://github.com/iammert/AnimatedTabLayout|
 |AwesomeBar|https://github.com/florent37/AwesomeBar|
 |CoordinatorTabLayout|https://github.com/hugeterry/CoordinatorTabLayout|
 |EasyFlipView|https://github.com/sourcerer-io/sourcerer-app.git|
 |FlowLayout|https://github.com/nex3z/FlowLayout|
+|FlycoTabLayout|https://github.com/H07000223/FlycoTabLayout|
+|PlayTabLayout|https://github.com/armcha/PlayTabLayout|
+|RecyclerTabLayout|https://github.com/nshmura/RecyclerTabLayout|
 |Skeleton|https://github.com/ethanhua/Skeleton|
+|SlidingTabLayout|https://github.com/ATHBK/SlidingTabLayout|
+|SmartTabLayout|https://github.com/ogaclejapan/SmartTabLayout|
 |StyleableToast|https://github.com/Muddz/StyleableToast|
 |Toasty|https://github.com/GrenderG/Toasty|
 
