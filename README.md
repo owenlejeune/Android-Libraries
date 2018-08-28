@@ -7,7 +7,6 @@
 - [Input](#input)
 - [Media Capture](#media-capture)
 - [Media Playing](#media-playing)
-- [UI Enhancement](#ui-enhancement)
 
 <!-- /TOC -->
 # Application Extension
@@ -26,9 +25,11 @@
 |:-:|:-:|
 |AwesomeBar|https://github.com/florent37/AwesomeBar|
 |CoordinatorTabLayout|https://github.com/hugeterry/CoordinatorTabLayout|
+|EasyFlipView|https://github.com/sourcerer-io/sourcerer-app.git|
 |FlowLayout|https://github.com/nex3z/FlowLayout|
 |Skeleton|https://github.com/ethanhua/Skeleton|
 |StyleableToast|https://github.com/Muddz/StyleableToast|
+|Toasty|https://github.com/GrenderG/Toasty|
 
 # Image Loading
 | Name | Repo |
@@ -53,8 +54,3 @@
 |:-:|:-:|
 |ExoPlayer|https://github.com/google/ExoPlayer|
 |PreviewSeekBar|https://github.com/rubensousa/PreviewSeekBar|
-
-# UI Enhancement
-|Name|Repo|
-|:-:|:-:|
-|Toasty|https://github.com/GrenderG/Toasty|
