@@ -35,6 +35,7 @@
 |SlidingTabLayout|![](https://github.com/ATHBK/SlidingTabLayout/raw/master/ScreenShots/1.gif)|https://github.com/ATHBK/SlidingTabLayout|
 |SmartTabLayout|![](https://raw.githubusercontent.com/ogaclejapan/SmartTabLayout/master/art/demo3.gif)|https://github.com/ogaclejapan/SmartTabLayout|
 |StyleableToast|![](https://github.com/Muddz/StyleableToast/raw/master/cases.png)|https://github.com/Muddz/StyleableToast|
+|SuperToasts||https://github.com/JohnPersano/SuperToasts|
 |Toasty||https://github.com/GrenderG/Toasty|
 
 # Image Loading
