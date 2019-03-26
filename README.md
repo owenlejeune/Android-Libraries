@@ -2,6 +2,7 @@
 
 - [Application Extension](#application-extension)
 - [Data Handling](#data-handling)
+- [Dev Tools](#dev-tools)
 - [Design](#design)
 - [Image Loading](#image-loading)
 - [Input](#input)
